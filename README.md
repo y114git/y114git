@@ -13,7 +13,7 @@ Passionate about creating various software, making technology accessible, and br
 
 - 🌍 **Professional Experience:**  
   I've contributed to various websites and apps, including building a site for a  [community event](https://diba-agder.no) in Norway using WordPress.  
-  I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian—making tech accessible across cultures.
+  I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian-making tech accessible across cultures.
 
 - 🎮 **Favorite Project:**  
   [DELTAHUB](https://github.com/y114git/DELTAHUB) – My flagship project focused on user experience and community.
