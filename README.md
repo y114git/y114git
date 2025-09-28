@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Y114!
 
 **Developer & Translator**  
-Passionate about creating games, making technology accessible, and bringing joy and convenience to users.
+Passionate about creating various software, making technology accessible, and bringing joy and convenience to users.
 
 ---
 
