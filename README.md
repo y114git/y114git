@@ -12,7 +12,7 @@ Passionate about creating various software, making technology accessible, and br
   Skilled in neural networks and professional AI usage.
 
 - 🌍 **Professional Experience:**  
-  I've contributed to various websites and apps, including building a site for a community event in Norway using WordPress ([diba-agder.no](https://diba-agder.no)).  
+  I've contributed to various websites and apps, including building a site for a  ([community event](https://diba-agder.no)) in Norway using WordPress.  
   I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian—making tech accessible across cultures.
 
 - 🎮 **Favorite Project:**  
