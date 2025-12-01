@@ -5,25 +5,20 @@ Passionate about creating various software, making technology accessible, and br
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 **Languages & Skills:**  
-  Python, HTML, CSS, JavaScript, SQL  
-  Skilled in neural networks and professional AI usage.
+- **Languages & Skills:**  
+  Python, HTML, CSS, JavaScript, SQL
 
-- 🌍 **Professional Experience:**  
+- **Professional Experience:**  
   I've contributed to various websites and apps, including building a site for a  [community event](https://diba-agder.no) in Norway using WordPress.  
-  I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian-making tech accessible across cultures.
+  I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian.
 
-- 🎮 **Favorite Project:**  
+- **Favorite Project:**  
   [DELTAHUB](https://github.com/y114git/DELTAHUB) – My flagship project focused on user experience and community.
 
-- 🕹️ **Interests:**  
+- **Interests:**  
   Games, communities, open discussions, and creating things people love to use.
-
-- 🏆 **Achievements:**  
-  - Developed and localized projects for international audiences  
-  - Extensive experience in translation and cross-cultural tech
 
 - 💬 **Languages:**  
   Russian, English, Ukrainian, Norwegian
