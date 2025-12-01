@@ -20,7 +20,7 @@ Passionate about creating various software, making technology accessible, and br
 - **Interests:**  
   Games, communities, open discussions, and creating things people love to use.
 
-- 💬 **Languages:**  
+- **Languages:**  
   Russian, English, Ukrainian, Norwegian
 
 ---
