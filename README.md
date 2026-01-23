@@ -27,15 +27,6 @@ Passionate about creating various software, making technology accessible, and br
 
 ## 🌐 Connect with Me
 
-[Telegram](https://t.me/y_maintg)
+- [Telegram](https://t.me/y_maintg)
 
 ---
-
-## ⚡ Fun Facts
-
-- I love gaming, connecting with communities, and engaging in lively discussions.
-- I’m always open to new opportunities, collaborations, and ideas that make technology more enjoyable and accessible.
-
----
-
-> Friendly, professional, and always striving to create something valuable for people.
