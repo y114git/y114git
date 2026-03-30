@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Y114!
+# Hi, I'm Y114!
 
 **Developer & Translator**  
 Passionate about creating various software, making technology accessible, and bringing joy and convenience to users.
@@ -8,14 +8,14 @@ Passionate about creating various software, making technology accessible, and br
 ## About Me
 
 - **Languages & Skills:**  
-  Python, HTML, CSS, JavaScript, SQL
+  Python, C#, HTML, CSS, JavaScript, SQL
 
 - **Professional Experience:**  
   I've contributed to various websites and apps, including building a site for a  [community event](https://diba-agder.no) in Norway using WordPress.  
   I have a strong background in translating software between Russian, Ukrainian, English, and Norwegian.
 
-- **Favorite Project:**  
-  [DELTAHUB](https://github.com/y114git/DELTAHUB) – My flagship project focused on user experience and community.
+- **Projects:**  
+  [G3M](https://github.com/y114git/G3M) - Mod Manager for GameMaker games.
 
 - **Interests:**  
   Games, communities, open discussions, and creating things people love to use.
@@ -25,7 +25,7 @@ Passionate about creating various software, making technology accessible, and br
 
 ---
 
-## 🌐 Connect with Me
+## Socials
 
 - [Telegram](https://t.me/y_maintg)
 
